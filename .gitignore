@@ -2,4 +2,5 @@
 *.tar.xz*
 
 scripts/nettle/nettle-*
+scripts/gnutls/gnutls-*
 install
