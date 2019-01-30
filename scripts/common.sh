@@ -5,4 +5,4 @@ tizen_install_path="$(git rev-parse --show-toplevel)/install"
 
 export PKG_CONFIG_DIR=""
 export PKG_CONFIG_LIBDIR="$tizen_install_path/lib/pkgconfig"
-export PKG_CONFIG_SYSROOT_DIR="$tizen_sysroot"
+#export PKG_CONFIG_SYSROOT_DIR="$tizen_sysroot"
